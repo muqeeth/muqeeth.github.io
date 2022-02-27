@@ -15,7 +15,7 @@ Before starting my masters, I worked as a Research Assistant in [DAIR](https://g
 
 # Recent Publications
 [Consistent Crosslingual Data Transfer for Open Information Extraction](https://openreview.net/pdf?id=iq_Jkbwe-kV) \
-Keshav Kolluru*, **Muqeeth***, Shubham Mittal, Soumen Chakrabarti, Mausam. *ACL 2022*
+Keshav Kolluru*, Muqeeth*, Shubham Mittal, Soumen Chakrabarti, Mausam. *ACL 2022*
 
 # Academic Services
 * Conference Reviewer: ACL 2022 (ACL Rolling Review)
