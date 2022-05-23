@@ -20,4 +20,4 @@ Keshav Kolluru\*, Mohammed Muqeeth\*, Shubham Mittal, Soumen Chakrabarti, Mausam
 # Academic Services
 * Conference Reviewer: ACL 2022 (ACL Rolling Review)
 
-<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=CtI9OZzA9jFlUVHUEHAMe0LYD9jRZyFhK8BMLdb2GHM&cl=ffffff&w=a"></script>
+<!-- <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=CtI9OZzA9jFlUVHUEHAMe0LYD9jRZyFhK8BMLdb2GHM&cl=ffffff&w=a"></script> -->
