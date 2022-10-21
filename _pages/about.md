@@ -14,10 +14,13 @@ I am a Masters student in [Computer Science](https://cs.unc.edu) at the Universi
 Before starting my masters, I worked as a Research Assistant in [DAIR](https://github.com/dair-iitd) group at [Indian Institute of Technology, Delhi](https://home.iitd.ac.in), India. I was extremely fortunate to be advised by Prof. [Mausam](https://www.cse.iitd.ac.in/~mausam/) and Prof. [Soumen Chakrabarti](https://www.cse.iitb.ac.in/~soumen/) with whom I worked on Multilingual Open Information Extraction. I received my bachelors degree from [Indian Institute of Technology, Madras](https://www.iitm.ac.in), India. Here I worked with Prof. [Sutanu Chakraborti](http://www.cse.iitm.ac.in/~sutanuc/) in Information Retrieval. 
 
 # Recent Publications
+[Few-Shot Parameter-Efficient Fine-Tuning is Better and Cheaper than In-Context Learning](https://arxiv.org/abs/2205.05638) \
+Haokun Liu\*, Derek Tam\*, **Mohammed Muqeeth***, Jay Mohta, Tenghao Huang, Mohit Bansal, Colin Raffel. *NeurIPS 2022*
+
 [Alignment-Augmented Consistent Translation for Multilingual Open Information Extraction](https://muqeeth.github.io/files/moie_acl2022.pdf) \
-Keshav Kolluru\*, Mohammed Muqeeth\*, Shubham Mittal, Soumen Chakrabarti, Mausam. *ACL 2022*
+Keshav Kolluru\*, **Mohammed Muqeeth***, Shubham Mittal, Soumen Chakrabarti, Mausam. *ACL 2022*
 
 # Academic Services
-* Conference Reviewer: ACL 2022 (ACL Rolling Review)
+* Conference Reviewer: ACL 2022, EMNLP 2022
 
 <!-- <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=CtI9OZzA9jFlUVHUEHAMe0LYD9jRZyFhK8BMLdb2GHM&cl=ffffff&w=a"></script> -->
