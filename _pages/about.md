@@ -15,10 +15,10 @@ Before starting my masters, I worked as a Research Assistant in [DAIR](https://g
 
 # Recent Publications
 [Few-Shot Parameter-Efficient Fine-Tuning is Better and Cheaper than In-Context Learning](https://arxiv.org/abs/2205.05638) \
-Haokun Liu\*, Derek Tam\*, **Mohammed Muqeeth***, Jay Mohta, Tenghao Huang, Mohit Bansal, Colin Raffel. *NeurIPS 2022*
+Haokun Liu\*, Derek Tam\*, **Mohammed Muqeeth**\*, Jay Mohta, Tenghao Huang, Mohit Bansal, Colin Raffel. *NeurIPS 2022*
 
 [Alignment-Augmented Consistent Translation for Multilingual Open Information Extraction](https://muqeeth.github.io/files/moie_acl2022.pdf) \
-Keshav Kolluru\*, **Mohammed Muqeeth***, Shubham Mittal, Soumen Chakrabarti, Mausam. *ACL 2022*
+Keshav Kolluru\*, **Mohammed Muqeeth**\*, Shubham Mittal, Soumen Chakrabarti, Mausam. *ACL 2022*
 
 # Academic Services
 * Conference Reviewer: ACL 2022, EMNLP 2022
