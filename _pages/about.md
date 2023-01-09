@@ -14,6 +14,9 @@ I am a Masters student in [Computer Science](https://cs.unc.edu) at the Universi
 Before starting my masters, I worked as a Research Assistant in [DAIR](https://github.com/dair-iitd) group at [Indian Institute of Technology, Delhi](https://home.iitd.ac.in), India. I was extremely fortunate to be advised by Prof. [Mausam](https://www.cse.iitd.ac.in/~mausam/) and Prof. [Soumen Chakrabarti](https://www.cse.iitb.ac.in/~soumen/) with whom I worked on Multilingual Open Information Extraction. I received my bachelors degree from [Indian Institute of Technology, Madras](https://www.iitm.ac.in), India. Here I worked with Prof. [Sutanu Chakraborti](http://www.cse.iitm.ac.in/~sutanuc/) in Information Retrieval. 
 
 # Recent Publications
+[Models with Conditional Computation Learn Suboptimal Solutions](https://openreview.net/pdf?id=s9wWlWOUVF9) \
+Mohammed Muqeeth, Haokun Liu, Colin Raffel. *ICBINB workshop, NeurIPS 2022*
+
 [Few-Shot Parameter-Efficient Fine-Tuning is Better and Cheaper than In-Context Learning](https://arxiv.org/abs/2205.05638) \
 Haokun Liu\*, Derek Tam\*, **Mohammed Muqeeth**\*, Jay Mohta, Tenghao Huang, Mohit Bansal, Colin Raffel. *NeurIPS 2022*
 
